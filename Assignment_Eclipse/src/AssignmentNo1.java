@@ -137,7 +137,7 @@ class Que1
 }
 
 
-  class Que2 
+ class Que2 
   {
 	  void run(int n) 
 	  {
